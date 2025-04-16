@@ -21,7 +21,7 @@ nav_order: 1
 </style>
 
 
-<div class="text-center" style="font-size: 1.8rem;">
+<div class="text-center" style="font-size: 1.4rem;">
   <p>We develop intelligent systems that reason and adapt in human-centered environments.<br>
   Our work bridges Artificial Intelligence (AI) and Cognitive Science
   to design models that interpret, align with, and participate in collective sense-making.</p>
@@ -61,7 +61,7 @@ nav_order: 1
 
 <div class="my-5"></div>
 
-<div class="text-center" style="font-size: 1.75rem;">
+<div class="text-center" style="font-size: 1.4rem;">
   <p>We study how AI can move beyond pattern recognition toward <span style="color: {{ site.colors.indigo }}">structured</span>, <span style="color: {{ site.colors.teal }}">explainable</span>, and <span style="color: {{ site.colors.yellow }}">collaborative</span> intelligence.  
 Our goal is not merely to build better models—but to uncover the computational principles of thought itself.</p>
 </div>

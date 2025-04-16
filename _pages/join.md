@@ -24,14 +24,7 @@ Take your time with this. You don’t need to understand every technical detail.
 - **What do you find interesting, strange, or exciting about it?**  
 - **Can you relate it to another idea you’ve encountered—in class, research, or elsewhere?**
 
-You can find our publications [here](/publications).  
-If you’re not sure where to begin, here are some good entry points:
-
-- For social reasoning: *Argumentation and Persuasion in Human-AI Collaboration* (2023)  
-- For interpretability: *Vector Symbolic Architectures for Neural Representation Control* (2024, preprint)  
-- For our most speculative work: *Coherence-Driven Representational Dynamics* (in submission)
-
----
+You can find a few selected publications [here](/research) and a more complete list [here](/publications)
 
 ## Step 2: Answer the following short prompts
 
@@ -65,7 +58,7 @@ We work with both undergraduate and graduate students. Here’s what you should 
 - **Graduate students** interested in advising or co-advising should indicate how their thesis goals align with our lab’s research themes.
 - We expect intellectual initiative, clarity of writing and thought, and the ability to manage ambiguity and iterate quickly.
 
-We have regular lab meetings, a collaborative writing culture, and an emphasis on sharing unfinished ideas in public.
+We have regular lab meetings, a collaborative writing culture, and an emphasis on sharing unfinished ideas.
 
 ---
 

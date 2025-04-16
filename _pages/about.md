@@ -28,7 +28,7 @@ latest_posts:
 <div style="font-size: 1.3rem;">
 <p>The Collective Intelligence Lab investigates how intelligent systems can reason, communicate, and adapt in complex, human-centered environments. We approach intelligence not as mere optimization—but as a process of representation, alignment, and coherence across multiple levels of abstraction.</p>
 
-<p>Our lab is grounded in the belief that intelligence is inherently **collective**, emerging not only from individual cognition but from interaction, structure, and interpretability. We draw from computer science, cognitive science, and formal logic to build systems that reason **with** people—not merely in parallel to them.</p>
+<p>Our lab is grounded in the belief that intelligence is inherently <strong>collective</strong>, emerging not only from individual cognition but from interaction, structure, and interpretability. We draw from computer science, cognitive science, and formal logic to build systems that reason <strong>with</strong> people—not merely in parallel to them.</p>
 
 <p>Our work spans both theoretical foundations and applied methods, from formal models of symbolic thought and representational dynamics to novel architectures for interpretable and socially aware AI.</p>
 </div>
