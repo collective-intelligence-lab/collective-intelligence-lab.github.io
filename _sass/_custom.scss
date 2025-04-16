@@ -1,0 +1,16 @@
+// Define your own color variables
+$teal-color: #4FD9BD;
+$indigo-color: #7283D9;
+$myyello-color: #FDD000;
+
+// Override theme color variables with your preferred color
+:root {
+  --global-theme-color: #{$indigo-color} !important;
+  --global-hover-color: #{$indigo-color} !important;
+}
+
+// Also for dark mode
+html[data-theme="dark"] {
+  --global-theme-color: #{$teal-color};
+  --global-hover-color: #{$teal-color};
+} 
