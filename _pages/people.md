@@ -15,7 +15,7 @@ We are a cross-disciplinary group of researchers, students, and collaborators in
 - Kaveh Eskandari Miandoab 
 - Howard Goldowski
 - Katie Kowalyshyn
-- Mohammad Umair
+- Muhammad Umair
 - Panos Lymperopoulos 
 - Shivam Goel
 - Mitchell Abrams
