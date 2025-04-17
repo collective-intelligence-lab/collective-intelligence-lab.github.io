@@ -13,13 +13,14 @@ We are a cross-disciplinary group of researchers, students, and collaborators in
 ## Graduate Students
 
 - Kaveh Eskandari Miandoab 
-- Howard Goldowski
+- Howard Goldowsky
 - Katie Kowalyshyn
 - Muhammad Umair
 - Panos Lymperopoulos 
 - Shivam Goel
 - Mitchell Abrams
 - Yash Shukla
+- Linnea Hultman (incoming)
 
 ## Undergraduate Students
 

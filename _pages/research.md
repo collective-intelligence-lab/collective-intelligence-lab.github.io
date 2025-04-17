@@ -34,7 +34,7 @@ We pursue this question across three interlinked research pillars:
         <h3 class="card-title">2. Neuro-Symbolic Interpretability</h3>
         <p>Modern language models are powerful but opaque. We develop hybrid architectures that bring <strong>structure, control, and memory</strong> into these systems using tools like:</p>
         <ul>
-          <li><strong>Vector Symbolic Architectures (VSAs)</strong> for encoding, manipulating, and decoding structured knowledge</li>
+          <li><strong>Vector Symbolic Algebras (VSAs)</strong> for encoding, manipulating, and decoding structured knowledge</li>
           <li>Symbolic <strong>guardrails and policies</strong> imposed through embedding interventions</li>
           <li>Models that retain <strong>representational consistency</strong> across prompts and contexts</li>
         </ul>

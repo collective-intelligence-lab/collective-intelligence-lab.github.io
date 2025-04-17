@@ -36,7 +36,7 @@ latest_posts:
 <div class="my-5"></div>
 
 ## Why Us
-<div style="font-size: 1.3rem;"> <ul> <li><strong>Socially intelligent systems</strong>: We model beliefs, norms, and values to enable AI agents that reason communicatively and ethically—essential for collaboration, trust, and human-AI alignment in real-world contexts.</li> <li><strong>Neuro-symbolic interpretability</strong>: By integrating vector symbolic architectures with language models, we develop systems that are performant yet transparent—advancing safe, controllable, and policy-aligned AI.</li> <li><strong>Coherence-driven cognition</strong>: We formalize intelligence as the restructuring of internal representations toward coherence, providing a foundation for abstraction, insight, and continual learning in adaptive agents.</li> </ul> </div>
+<div style="font-size: 1.3rem;"> <ul> <li><strong>Socially intelligent systems</strong>: We model beliefs, norms, and values to enable AI agents that reason communicatively and ethically—essential for collaboration, trust, and human-AI alignment in real-world contexts.</li> <li><strong>Neuro-symbolic interpretability</strong>: By integrating vector symbolic algebras with language models, we develop systems that are performant yet transparent—advancing safe, controllable, and policy-aligned AI.</li> <li><strong>Coherence-driven cognition</strong>: We formalize intelligence as the restructuring of internal representations toward coherence, providing a foundation for abstraction, insight, and continual learning in adaptive agents.</li> </ul> </div>
 
 <div class="my-5"></div>
 
