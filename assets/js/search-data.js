@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "We are a cross-disciplinary group of researchers, students, and collaborators interested in understanding the computational principles of intelligence and using that to build AI systems that can think, explain, and adapt. Our lab values intellectual clarity, experimental rigor, and an openness to rethinking core assumptions. We welcome individuals from diverse academic and personal backgrounds who share a curiosity about the structure of thought and the future of machine intelligence.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "nav-publications",
           title: "publications",
           description: "publications by categories in reversed chronological order.",
@@ -30,19 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-prospective",
-          title: "prospective",
+        },{id: "nav-join-us",
+          title: "join us",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/join/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -468,6 +468,46 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-howard-goldowsky",
+          title: 'Howard Goldowsky',
+          description: "I believe machines must become vastly better at analogical reasoning before they reach human-level intelligence, and I enjoy using neurally-plausible vector-symbolic mathematics to work on this difficult problem. In my free time, I enjoy chess, reading (especially cognitive science textbooks!), writing, running, and spending time with friends and family.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/people/phd/howard/";
+            },},{id: "projects-katharine-katie-kowalyshyn",
+          title: 'Katharine (Katie) Kowalyshyn',
+          description: "Katie is currently a PhD student in Computer Science working in the COIL and HRI labs. After finishing her B.S. from Davidson College, she came to Tufts to research AI safety in LLMs, including their inherent risks and biases as well as the extent of their capabilities like theory of mind and multilingualism. Outside of the lab, she may be found behind a Leica lens while out and about in Boston or finding the best eats for her foodie habits.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/people/phd/katie/";
+            },},{id: "projects-kaveh-eskandari-miandoab",
+          title: 'Kaveh Eskandari Miandoab',
+          description: "Kaveh is interested in all things NLP, but he especially loves working on social problems in the domain of Natural Language Processing and Large Language Models. His current research interests are computational argumentation and argument mining, uncertainty quantification, hallucination detection and mitigation, and resource development. When he is not working on a research project, he likes to play video games, take long hikes, and read fantasy and classical literature.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/people/phd/kaveh/";
+            },},{id: "projects-linnea-hultman",
+          title: 'Linnea Hultman',
+          description: "Incoming Fall 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/people/phd/linnea/";
+            },},{id: "projects-mitchell-abrams",
+          title: 'Mitchell Abrams',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/people/phd/mitch/";
+            },},{id: "projects-panagiotis-panos-lymperopoulos",
+          title: 'Panagiotis (Panos) Lymperopoulos',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/people/phd/panos/";
+            },},{id: "projects-shivam-goel",
+          title: 'Shivam Goel',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/people/phd/shivam/";
+            },},{id: "projects-muhammad-umair",
+          title: 'Muhammad Umair',
+          description: "Umair is a PhD candidate in Computer Science at Tufts University, specializing in Human-Robot Interaction. His research draws from Conversation Analysis to explore turn-taking in dialogue, aiming to make conversational AI more natural and unscripted. He is a member of the Human Interaction Lab and has worked on projects such as GailBot and studies of Transition Relevance Places (TRPs). Outside of academia, he enjoys traveling, discovering new cuisines, rock climbing, and skydiving.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/people/phd/umair/";
             },},{
         id: 'social-email',
         title: 'email',
