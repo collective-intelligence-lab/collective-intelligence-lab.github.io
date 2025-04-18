@@ -1,9 +1,9 @@
 ---
 layout: default
-title: prospective
+title: join us
 permalink: /join/
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## Interested in working with us?
